@@ -33,7 +33,7 @@ var lat = null;
 var lng = null;
 var foto = null;
 
-const applicationServerKey = urlBase64ToUint8Array('BCp4...')
+const applicationServerKey = urlBase64ToUint8Array('aa526f51a44fe3f3a8760ff1f38119e76525bbccbd7941e1fbe22323ccc9d9b7')
 
 
 function urlBase64ToUint8Array(base64String) {
